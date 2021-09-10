@@ -29,5 +29,7 @@ public class App
         System.out.println("The area is");
         System.out.println(area + " square feet");
         System.out.println(areaMetric + " square meters");
+
+        sc.close();
     }
 }
